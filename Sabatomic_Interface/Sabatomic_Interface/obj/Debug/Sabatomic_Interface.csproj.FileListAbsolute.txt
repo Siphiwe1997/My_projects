@@ -1,0 +1,15 @@
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\Sabatomic_Interface\Sabatomic_Interface\obj\Debug\Sabatomic_Interface.csproj.AssemblyReference.cache
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\Sabatomic_Interface\Sabatomic_Interface\obj\Debug\Sabatomic_Interface.csproj.CoreCompileInputs.cache
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\Sabatomic_Interface\Sabatomic_Interface\bin\Debug\Sabatomic_Interface.exe.config
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\Sabatomic_Interface\Sabatomic_Interface\bin\Debug\Sabatomic_Interface.exe
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\Sabatomic_Interface\Sabatomic_Interface\bin\Debug\Sabatomic_Interface.pdb
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\Sabatomic_Interface\Sabatomic_Interface\obj\Debug\Sabatomic_Interface.exe
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\Sabatomic_Interface\Sabatomic_Interface\obj\Debug\Sabatomic_Interface.pdb
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\Sabatomic_Interface\Sabatomic_Interface\obj\Debug\Sabatomic_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\OneDrive\Desktop\WFP Projects\Sabatomic_Interface\Sabatomic_Interface\bin\Debug\Sabatomic_Interface.exe.config
+C:\Users\USER\OneDrive\Desktop\WFP Projects\Sabatomic_Interface\Sabatomic_Interface\bin\Debug\Sabatomic_Interface.exe
+C:\Users\USER\OneDrive\Desktop\WFP Projects\Sabatomic_Interface\Sabatomic_Interface\bin\Debug\Sabatomic_Interface.pdb
+C:\Users\USER\OneDrive\Desktop\WFP Projects\Sabatomic_Interface\Sabatomic_Interface\obj\Debug\Sabatomic_Interface.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\WFP Projects\Sabatomic_Interface\Sabatomic_Interface\obj\Debug\Sabatomic_Interface.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\WFP Projects\Sabatomic_Interface\Sabatomic_Interface\obj\Debug\Sabatomic_Interface.exe
+C:\Users\USER\OneDrive\Desktop\WFP Projects\Sabatomic_Interface\Sabatomic_Interface\obj\Debug\Sabatomic_Interface.pdb

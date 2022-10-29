@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\C# Design Patterns\Project3\bin\Debug\Project3.exe.config
+C:\Users\USER\OneDrive\Desktop\C# Design Patterns\Project3\bin\Debug\Project3.exe
+C:\Users\USER\OneDrive\Desktop\C# Design Patterns\Project3\bin\Debug\Project3.pdb
+C:\Users\USER\OneDrive\Desktop\C# Design Patterns\Project3\obj\Debug\ImageFormat(WithoutDirector).csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\C# Design Patterns\Project3\obj\Debug\ImageFormat(WithoutDirector).csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# Design Patterns\Project3\obj\Debug\Project3.exe
+C:\Users\USER\OneDrive\Desktop\C# Design Patterns\Project3\obj\Debug\Project3.pdb
+C:\Users\USER\OneDrive\Desktop\C# Design Patterns\Project3\ImageFormat(WithoutDirector)\obj\Debug\ImageFormat(WithoutDirector).csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\C# Design Patterns\Project3\ImageFormat(WithoutDirector)\obj\Debug\ImageFormat(WithoutDirector).csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# Design Patterns\Project3\ImageFormat(WithoutDirector)\obj\Debug\Project3.exe
+C:\Users\USER\OneDrive\Desktop\C# Design Patterns\Project3\ImageFormat(WithoutDirector)\obj\Debug\Project3.pdb
+C:\Users\USER\OneDrive\Desktop\C# Design Patterns\Project3\ImageFormat(WithoutDirector)\bin\Debug\Project3.exe.config
+C:\Users\USER\OneDrive\Desktop\C# Design Patterns\Project3\ImageFormat(WithoutDirector)\bin\Debug\Project3.exe
+C:\Users\USER\OneDrive\Desktop\C# Design Patterns\Project3\ImageFormat(WithoutDirector)\bin\Debug\Project3.pdb

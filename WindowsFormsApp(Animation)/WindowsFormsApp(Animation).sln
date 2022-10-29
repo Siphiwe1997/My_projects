@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp(Animation)", "WindowsFormsApp(Animation).csproj", "{2AE194EE-8802-4D8F-B6EE-78F165689E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AE194EE-8802-4D8F-B6EE-78F165689E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE194EE-8802-4D8F-B6EE-78F165689E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE194EE-8802-4D8F-B6EE-78F165689E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE194EE-8802-4D8F-B6EE-78F165689E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DDA589D-8528-48C5-89BC-3E5C4ACB7EEB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\bin\Debug\WPF(Subatomic v2).exe.config
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\bin\Debug\WPF(Subatomic v2).exe
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\bin\Debug\WPF(Subatomic v2).pdb
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\obj\Debug\WPF(Subatomic v2).csproj.AssemblyReference.cache
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\obj\Debug\WPF_Subatomic_v2_.CfmSabatomic.resources
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\obj\Debug\WPF_Subatomic_v2_.Properties.Resources.resources
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\obj\Debug\WPF(Subatomic v2).csproj.GenerateResource.cache
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\obj\Debug\WPF(Subatomic v2).csproj.CoreCompileInputs.cache
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\obj\Debug\WPF(Subatomic v2).exe
+C:\Users\SIPHI\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\obj\Debug\WPF(Subatomic v2).pdb
+C:\Users\USER\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\bin\Debug\WPF(Subatomic v2).exe.config
+C:\Users\USER\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\bin\Debug\WPF(Subatomic v2).exe
+C:\Users\USER\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\bin\Debug\WPF(Subatomic v2).pdb
+C:\Users\USER\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\obj\Debug\WPF(Subatomic v2).csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\obj\Debug\WPF_Subatomic_v2_.CfmSabatomic.resources
+C:\Users\USER\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\obj\Debug\WPF_Subatomic_v2_.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\obj\Debug\WPF(Subatomic v2).csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\obj\Debug\WPF(Subatomic v2).csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\obj\Debug\WPF(Subatomic v2).exe
+C:\Users\USER\OneDrive\Desktop\WFP Projects\WPF(Subatomic v2)\obj\Debug\WPF(Subatomic v2).pdb

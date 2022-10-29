@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Desktop\C# Project 2022\SQL_Assign\obj\Debug\SQL_Assign.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\C# Project 2022\SQL_Assign\obj\Debug\SQL_Assign.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# Project 2022\SQL_Assign\bin\Debug\SQL_Assign.exe.config
+C:\Users\USER\OneDrive\Desktop\C# Project 2022\SQL_Assign\bin\Debug\SQL_Assign.exe
+C:\Users\USER\OneDrive\Desktop\C# Project 2022\SQL_Assign\bin\Debug\SQL_Assign.pdb
+C:\Users\USER\OneDrive\Desktop\C# Project 2022\SQL_Assign\obj\Debug\SQL_Assign.exe
+C:\Users\USER\OneDrive\Desktop\C# Project 2022\SQL_Assign\obj\Debug\SQL_Assign.pdb
